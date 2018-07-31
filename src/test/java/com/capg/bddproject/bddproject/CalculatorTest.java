@@ -17,7 +17,7 @@ public class CalculatorTest {
 	}
 	@Given("^I have a calculator$")
 	public void i_have_a_calculator() throws Throwable {
-	    // Write code here that turns the phrase above into concrete actions
+System.out.println("passed");
 	    throw new PendingException();
 	}
 
